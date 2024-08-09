@@ -14,7 +14,8 @@ Wake-Watch is an intermediate Python project that detects driver drowsiness to p
 ## Image of the Grapgh
 
 
-![Uploading Screenshot 2024-08-09 at 2.49.01 PM.png…]()
+<img width="1033" alt="Results of Graph" src="https://github.com/user-attachments/assets/f15ad2d4-8b4d-4b8e-a4d0-d43f0249b317">
+
 
 
 
